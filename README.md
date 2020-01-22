@@ -1,7 +1,7 @@
 # Optimizing Advertising Spends - Market Mix 
  
 
-The client is an Auto Dealer who deals with different brands of various categories ranging from domestic, international, luxury, non-luxury etc. 
+The client is an Auto Dealer of car manufactures.The client manages different car brands of various categories ranging from domestic, international, luxury, non-luxury, sedan, hatch-back etc. 
 
 The client wants to maximize the ROI on Advertising spends regarding different brands so maximize the profits. Also, since the time period is from 1995-2005, the main channel for Advertising is TV, followed by newspaper, outdoor pamphlets etc. 
 
